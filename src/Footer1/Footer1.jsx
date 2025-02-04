@@ -23,6 +23,8 @@ import Kayak from '../images/kayak.png'
 import InstagramIcon from "@mui/icons-material/Instagram";
 import FacebookIcon from "@mui/icons-material/Facebook";
 
+
+
 const FirstFooter = () => {
   const isMobile = useMediaQuery("(max-width: 768px)");
 
